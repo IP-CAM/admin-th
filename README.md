@@ -1,2 +1,2 @@
 # admin-th
-opencast admin translate to thai
+opencart admin translate to thai
